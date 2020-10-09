@@ -1,0 +1,11 @@
+{
+  "name": "tip-calc-dy",
+  "version": "1.0.0",
+  "main": "tip-calc-dy.js",
+  "repository": "git@github.com:dannyypz/tip-calc-dy.git",
+  "author": "Daniel_Yepez <dannyypz@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
